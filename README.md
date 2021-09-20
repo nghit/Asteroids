@@ -1,7 +1,7 @@
 # How to play Asteroids?
 
 To play the game online:
-1. Click on the Play folder directing on Github.
+1. Click on the Play folder directly on Github.
 2. Click on Game Link.txt, then copy and paste the URL on the browser.
 
 To play the game offline:
